@@ -62,7 +62,7 @@ class _WebSocketPageState extends State<WebSocketPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('WebSocket Demo'),
+        title: Text('WebSockets'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
